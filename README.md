@@ -1,3 +1,5 @@
-qmk firmware files for the [rainkeebs](https://www.rainkeebs.mx) [manta](https://www.rainkeebs.mx/product/manta-keyboard-kit).
+My qmk firmware files for the [rainkeebs](https://www.rainkeebs.mx) [manta](https://www.rainkeebs.mx/product/manta-keyboard-kit). Wrote these so I could use [via](https://caniusevia.com).
 
-includes info.json, folder for via firmware, and manta.json within the keymaps/via subfolder (to be loaded from via).
+* includes info.json
+* includes via subfolder. manta.json is to be loaded from via manually
+* I used an Elite-C, so the bootloader is atmel-dfu
