@@ -8,4 +8,4 @@ I recently updated my layout for left handed use:
 
 ![lh layout](keyboard-layout.jpg)
 
-This keymap represented in the `lh` and `lh_via` keymaps.fs
+This keymap represented in the `lh` and `lh_via` keymaps.
