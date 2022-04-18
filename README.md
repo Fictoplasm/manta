@@ -4,4 +4,6 @@ My qmk firmware files for the [rainkeebs](https://www.rainkeebs.mx) [manta](http
 * includes via subfolder. manta.json is to be loaded from via manually
 * I used an Elite-C, so the bootloader is atmel-dfu
 
+I recently updated my layout for left handed use:
+
 ![lh layout](keyboard-layout.jpg)
