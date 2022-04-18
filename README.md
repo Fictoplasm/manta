@@ -7,3 +7,5 @@ My qmk firmware files for the [rainkeebs](https://www.rainkeebs.mx) [manta](http
 I recently updated my layout for left handed use:
 
 ![lh layout](keyboard-layout.jpg)
+
+This keymap represented in the `lh` and `lh_via` keymaps.fs
