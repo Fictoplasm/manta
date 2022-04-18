@@ -1,3 +1,7 @@
+# Rainkeebs Manta firmware with VIA support and left-handed keymap
+
+![carter](manta_carter.jpeg)
+
 My qmk firmware files for the [rainkeebs](https://www.rainkeebs.mx) [manta](https://www.rainkeebs.mx/product/manta-keyboard-kit). Wrote these so I could use [via](https://caniusevia.com).
 
 * includes info.json
